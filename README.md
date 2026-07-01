@@ -1,2 +1,3 @@
 # mducollege-demo
-this is my first GIT Repository .
+This is my first GIT Repository .
+Author - Payal Bhardwaj
