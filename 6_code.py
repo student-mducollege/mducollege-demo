@@ -1,0 +1,6 @@
+S=set()
+n=input("enter the number:")
+S.add(int(n))
+n=input("enter the numberb:")
+S.add(int(n))
+n=input("enter the number:")
